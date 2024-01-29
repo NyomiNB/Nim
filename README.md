@@ -1,0 +1,11 @@
+- Language: Java
+- Written in Netbeans
+- Description - A computerized game of Nim!
+- Features
+-     Play with a friend or against the computer.
+-     Choose between three different displays
+-     Play unlimited rounds!
+- Skills:
+-       Calling and creating methods
+-       If/Else Statments
+-       While loops
